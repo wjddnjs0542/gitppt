@@ -1,3 +1,6 @@
 mid(){
 	return mid;
 }
+bot(){
+	return bot;
+}
