@@ -2,7 +2,7 @@ top(){
 	return top;
 }
 mid(){
-	return master;
+	return new;
 }
 bot(){
 	return bot;
