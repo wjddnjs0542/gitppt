@@ -1,4 +1,7 @@
 A revert 2
 B revert 4
+<<<<<<< HEAD
 C revert 6
 D revert 8
+=======
+>>>>>>> parent of efa9a79... 6
