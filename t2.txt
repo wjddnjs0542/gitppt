@@ -1,1 +1,2 @@
-A revert 1
+A revert 2
+B revert 4
