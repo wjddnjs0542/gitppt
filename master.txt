@@ -10,3 +10,4 @@ bot(){
 master(){
 	return master;
 }
+master
