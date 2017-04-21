@@ -7,3 +7,6 @@ mid(){
 bot(){
 	return bot;
 }
+master(){
+	return master;
+}
